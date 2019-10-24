@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Address: No.79 Taman Mas 1, Batu 9 Cheras 43200 Cheras, selangor
+        \n\nEducation:
+        \n\tSJCK Batu 9 Cheras
+        \n\tSMK Dusun Nanding, Hulu Langat
+        \n\tTAR UC, KL
+        \nWorking Experiences:
+        \n\tTuition Centre Teacher, Cozo
+        \n\n\n\n\n\n\n\n\n\n\n\n\n\nhaha
+    </string>
+</resources>
